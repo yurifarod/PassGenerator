@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Pass Generator</string>
+    <string name="texto">NÚMERO DE DIGITOS:</string>
+    <string name="gerar">GERAR</string>
+    <string name="tamanho">TAMANHO</string>
+</resources>
